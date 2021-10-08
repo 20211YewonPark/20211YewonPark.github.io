@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "박예원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/사과.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "정신 단디 붙잡아"
   location         : "대한민국, 서울"
   email            : "21-20211@hafs.hs.kr"
